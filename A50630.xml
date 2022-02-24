@@ -1,0 +1,1388 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A welcom in a poem to His Excellency John Lord Roberts, Baron of Truro Lord Lieutenant General and General Governour of Ireland, my most noble patron, &amp;c. at his royal entry into the Castle of Dublin / by Lieut. Coll. VV.M.</title>
+            <author>Mercer, William, 1605?-1676?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1669</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 48 KB of XML-encoded text transcribed from 21 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A50630</idno>
+            <idno type="STC">Wing M1741</idno>
+            <idno type="STC">ESTC R24151</idno>
+            <idno type="EEBO-CITATION">07961240</idno>
+            <idno type="OCLC">ocm 07961240</idno>
+            <idno type="VID">40729</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A50630)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 40729)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1210:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A welcom in a poem to His Excellency John Lord Roberts, Baron of Truro Lord Lieutenant General and General Governour of Ireland, my most noble patron, &amp;c. at his royal entry into the Castle of Dublin / by Lieut. Coll. VV.M.</title>
+                  <author>Mercer, William, 1605?-1676?</author>
+               </titleStmt>
+               <extent>39 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Iosiah Windsor for Robert Howes,</publisher>
+                  <pubPlace>Dublin :</pubPlace>
+                  <date>1669.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Seria mixta jocis."</note>
+                  <note>Added t.p.: Verbum sapienti, or, Mercers muse making melody in a welcom to His Excellency ... "</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Truro, John Roberts, --  Baron.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:40729:1"/>
+            <pb facs="tcp:40729:1"/>
+            <p>A VVELCOM IN A POEM To His Excellency <hi>John</hi> Lord <hi>Roberts</hi> Baron of
+<hi>Truro,</hi> Lord Lieutenant General, and General Governour of <hi>Ireland;</hi> my moſt Noble Patron, <hi>&amp;c.</hi> At his Royal Entry into the Caſtle of <hi>Dublin.</hi>
+            </p>
+            <p>BY Lieut. Coll. <hi>
+                  <g ref="char:V">Ʋ</g>
+                  <g ref="char:V">Ʋ</g>. M.</hi>
+            </p>
+            <q>Seria mixta jocis.</q>
+            <p>
+               <hi>DUBLIN,</hi> Printed by <hi>Ioſiah Windſor,</hi> for <hi>Robert Howes,</hi> Bookſeller in <hi>Caſtle-ſtreet,</hi> 1669.</p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:40729:2"/>
+            <pb facs="tcp:40729:2" rendition="simple:additions"/>
+            <head>In place of the FRONTISPIECE.</head>
+            <lg>
+               <l>VPon this page I thought to place</l>
+               <l>His Excellence Effigies,</l>
+               <l>Of Liniaments ſo right and r<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e,</l>
+               <l>That all ſhould ſay the life lay there.</l>
+               <l>The piece that made the ſparrows pick,</l>
+               <l>Was not accounted neer ſo quick,</l>
+               <l>As I believ'd that this ſhould be,</l>
+               <l>Or of ſuch excellent degree.</l>
+               <l>But then aſſoon as e're I ſaw</l>
+               <l>The workman would his hand withdraw,</l>
+               <l>And that things ſo were underſtood,</l>
+               <l>I thought his draughts would do no good,</l>
+               <l>So put (ſupplying of the place)</l>
+               <l>Sonnets for his Effigies,</l>
+               <l>Perceiving that the Pencils art,</l>
+               <l>His Pourtraicture could not impart,</l>
+               <l>His mind's a Magazin of grace,</l>
+               <l>And that's apparent in his face.</l>
+               <l>If ſo? then who hath hands or wit,</l>
+               <l>Or learning to illuſtrate i<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>?</l>
+               <l>The endleſs Emblem of a Ring</l>
+               <l>Illuſtrates only ſuch a thing,</l>
+               <l>Rings have no end you will allow,</l>
+               <l>His vertues all are endleſs too.</l>
+               <l>Read then this reaſon, and go on,</l>
+               <l>Better a bad excuſe than none.</l>
+               <l>And let me leave this empty place,</l>
+               <l>For <hi>Zeuxes</hi> to attempt the face.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:40729:3"/>
+               <l>I See no workman willing for to fall,</l>
+               <l>To work upon this Hero's face at all<g ref="char:punc">▪</g>
+               </l>
+               <l>But though the pencil cannot paint a ſpan,</l>
+               <l>My pen ſhall paint it as well as I can.</l>
+               <l>Figures can not ſuch numbers lay, ſo long</l>
+               <l>Men may miſtake, but words will not go wrong.</l>
+               <l>Conſidering ſuch, and in ſo ſtrict a caſe,</l>
+               <l>Reverence thering which ſhould ſurround the face.</l>
+            </lg>
+            <p>
+               <figure>
+                  <figDesc>Ring.</figDesc>
+               </figure>
+            </p>
+            <lg>
+               <l>How can the compaſs of a Ring</l>
+               <l>Contain the Image of a king?</l>
+               <l>VVhoſe Image, of Divine Contents,</l>
+               <l>His Makers Image repreſents.</l>
+               <l>It can not (no man muſt ſay ſo)</l>
+               <l>More then an end is in this O.</l>
+               <l>But ſee his ſhadows admit you might,</l>
+               <l>
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>is ſubſtance is far finer ſight,</l>
+               <l>VVhich in ſome ſort is ſung by me,</l>
+               <l>VVithin this welcome, come and ſee.</l>
+               <l>Put then ſome pages here apart,</l>
+               <l>And read his welcome with your heart.</l>
+               <l>
+                  <pb facs="tcp:40729:3"/>I labour'd long enough to fill</l>
+               <l>This blank, believe me if you will,</l>
+               <l>And wiſht the workman to take care,</l>
+               <l>To do his duty to a hair,</l>
+               <l>In handling his Effigies,</l>
+               <l>He ſaid he underſtood the caſe,</l>
+               <l>So ſtill he ſtampt a ſtately thing,</l>
+               <l>That to the life lookt like the King,</l>
+               <l>And then when I would tell him that,</l>
+               <l>He askt me, what I would be at?</l>
+               <l>Aſſuring me it muſt ſo be,</l>
+               <l>The Image of His Majeſtie,</l>
+               <l>What firſt he wrought, he would defate,</l>
+               <l>And then begin again to get</l>
+               <l>The graven Image, ſaid, in reaſon,</l>
+               <l>King <hi>Charles</hi> could not call it treaſon.</l>
+               <l>But finding him affected ſo,</l>
+               <l>I took my book, and bade him go,</l>
+               <l>And left the blank ev'nas before</l>
+               <l>Forboth of us could do no more.</l>
+               <l>Then we his mind would modellize,</l>
+               <l>Which vext us worſe by ten degrees<g ref="char:punc">▪</g>
+               </l>
+               <l>So pray'd <hi>Apelles</hi> with his wit,</l>
+               <l>To try his skill, contriving it,</l>
+               <l>But mind nor body could he bring</l>
+               <l>within the compaſs of a Ring.</l>
+               <l>Then we three threw the things away</l>
+               <l>Wherewith we wrought, but I did ſay,</l>
+               <l>I ſhall afford for my offence,</l>
+               <l>A welcome for his Excellence.</l>
+            </lg>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:40729:4"/>
+            <lg>
+               <l>Within this Welcome will appear</l>
+               <l>Miſtakes, and twenty faults I fear.</l>
+               <l>But I'll excuſe no crime into 't,</l>
+               <l>Let <hi>ſcribimus indocti</hi> do 't.</l>
+            </lg>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:40729:4"/>
+            <p>
+               <hi>Verbum Sapienti,</hi> OR, MERCERS Muſe making Melody, in a VVELCOM To His Excellency
+<hi>John</hi> Lord <hi>Roberts</hi> Baron of <hi>Truro,</hi> Lord Lieutenant General, and General Governour of <hi>Ireland,</hi> my moſt Noble Patron, <hi>&amp;c.</hi>
+            </p>
+            <q>
+               <bibl>Ovid.</bibl>
+               <lg>
+                  <l> 
+                     <hi>Principlis obſla, ſero medicina paratur,</hi>
+                  </l>
+                  <l>
+                     <hi> Cum mala per longas invaluere moras.</hi>
+                  </l>
+               </lg>
+            </q>
+            <p>Engliſhed thus,</p>
+            <q>
+               <lg>
+                  <l>Kill Cocatrices early in the egg,</l>
+                  <l>If ſickneſs ſeize, then <hi>Galen</hi> may go beg.</l>
+               </lg>
+            </q>
+            <p>Or thus,</p>
+            <q>
+               <lg>
+                  <l>With timely care, kill Cankerworms, that eat,</l>
+                  <l>Your enterprizes, and deſtroy the State.</l>
+               </lg>
+            </q>
+            <p>By a Lover of the Muſes Lieut. Coll. <hi>
+                  <g ref="char:V">Ʋ</g>
+                  <g ref="char:V">Ʋ</g>illiam Mercer.</hi>
+            </p>
+            <p>
+               <hi>DUBLIN,</hi> Printed by <hi>Ioſiah <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi> for <hi>Robert Hewes,</hi> Bookſeller <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 1669.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:40729:5"/>
+            <head>Epistle Dedicatory.</head>
+            <opener>
+               <salute>May it pleaſe your Excellency,</salute>
+            </opener>
+            <lg>
+               <l>NO Indian Ore, of precious ſtones, or gold,</l>
+               <l>Have I to give, or if I had? you would</l>
+               <l>Not value ſuch, my gift gives greater price,</l>
+               <l>Firſt welcoms you, then gives you good advice,</l>
+               <l>Within few words, and lo my lines do bring</l>
+               <l>Vnfeign'd affection, that's a ſacred thing.</l>
+               <l>I alſo offer by ſome things I add,</l>
+               <l>A fair forewarning to debar the bad,</l>
+               <l>But how the bad ſhall from the better be</l>
+               <l>Diſcern'd, that ſecret lies aſleep with me.</l>
+               <l>If things enſue, which here I ſeem to ſmother?</l>
+               <l>Say that a fool ſaid ſo when you came hither.</l>
+               <l>I honour you, and wiſh your welfare too,</l>
+               <l>And (if commanded) I know what to do.</l>
+               <l>But for the preſent pray (Great Sir) proceed,</l>
+               <l>Vievving your vvelcome, venture then to read,</l>
+               <l>What more I ſay, and ſo I ſhall bring on</l>
+               <l>The vvelcome vvith this Dedication.</l>
+               <l>But left it be abus'd by baſe objection,</l>
+               <l>I publiſh it upon my Lords protection<g ref="char:punc">▪</g>
+               </l>
+               <l>For unto vvhom ſhould I ſuch duty do,</l>
+               <l>Were I an <hi>Ovid</hi> onely unto you,</l>
+               <l>
+                  <pb facs="tcp:40729:5"/>Whoſe valour weighs with <hi>Ceſars,</hi> and I ſay,</l>
+               <l>Exceeds by ſo much as is ſeen to day.</l>
+               <l>That proſperous <hi>Pompeius</hi> too in power,</l>
+               <l>You parallel in pomp this preſent hour.</l>
+               <l>Nations and cities in's days he did ſubdue,</l>
+               <l>And ſo the ſame ſure ſhall be ſaid of you.</l>
+               <l>He gain'd <hi>Armenia, Medeia,</hi> and <hi>Celicia,</hi>
+               </l>
+               <l>
+                  <hi>Meſopotamia, Raphlagonia, Cappadocia,</hi>
+               </l>
+               <l>But all by force, your Excellence not ſo,</l>
+               <l>You gain by fairneſs whereſoe're you go,</l>
+               <l>Nor are your fortunes, nor your actions either,</l>
+               <l>One jot inferiour to <hi>Pompeius</hi> neither.</l>
+               <l>Great treaſures did his Victories tranſport</l>
+               <l>To <hi>Rome:</hi> ſo could you alſo, Sir, in ſhort</l>
+               <l>Do (of your own to <hi>Dublin</hi>) and tranſcend</l>
+               <l>The pomp for which they <hi>Pompeius</hi> commend;</l>
+               <l>For he but conquer'd Kingdoms, purchas'd fame,</l>
+               <l>And you compare with <hi>Pompeius</hi> in them.</l>
+               <l>But then to put more pomp upon your plenty,</l>
+               <l>Weigh with your Welcome <hi>Verbum ſapienti.</hi>
+               </l>
+            </lg>
+         </div>
+         <div type="poem">
+            <pb facs="tcp:40729:6"/>
+            <head>ANAGRAMS Vpon the Noble Name of <hi>JOHN ROBERTS.</hi>
+            </head>
+            <lg>
+               <l>Sob'r not hjer.</l>
+            </lg>
+            <lg>
+               <head>
+                  <hi>John</hi> Lord <hi>Roberts.</hi>
+               </head>
+               <l>Trj on bold'r Hero's.</l>
+               <l>I'l ord'r hon'r beſt.</l>
+               <l>Is bornet' hon'r.</l>
+               <l>Reſt noblj'r hon'rd.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Sob'r not hjer,</hi> though in honour high,</l>
+               <l>Heroique ſigns of true Nobility.</l>
+            </lg>
+            <lg>
+               <l>Now ſign'd and ſeal'd this promiſe is expreſt,</l>
+               <l>As Lord Lieutenant <hi>I'l ord'r hon'r beſt.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Trjon bold'r Heros,</hi> do nothing now remove at,</l>
+               <l>In all attempts, <hi>Audaces fortuna juvat.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Is borne t' hon'r</hi> in his Monarchs eye,</l>
+               <l>And truly honour'd by his Majeſty.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Reſt noblj'r hon'rd,</hi> of himſelf ſaid <hi>Ceſar,</hi>
+               </l>
+               <l>So may my Lord ſay as much now as theſe are.</l>
+            </lg>
+            <lg>
+               <l>Theſe Anagrams and Name ſo well agree,</l>
+               <l>Nor place, nor Name, nor letters, nothing free.</l>
+            </lg>
+         </div>
+         <div type="poem">
+            <lg>
+               <pb facs="tcp:40729:6"/>
+               <head>ACROSTICK.</head>
+               <l>I know not one (when I read all the Roll)</l>
+               <l>O fall the wiſe Philoſophers, the whole</l>
+               <l>Have not ſo near a ſympathy in things<g ref="char:punc">▪</g>
+               </l>
+               <l>Neither by Nature, nor what Fortune brings</l>
+               <l>Like you (my Lord) Lo no man muſt deny us</l>
+               <l>O fall your Lordſhip's likeſt to <hi>Pompeius<g ref="char:punc">▪</g>
+                  </hi>
+               </l>
+               <l>Read of his rare endowments, and I dare</l>
+               <l>Directly ſay, your Excellence by far</l>
+               <l>Riſe to a higher magnitude of mind,</l>
+               <l>Of wiſdom, valour, fortune; yet I find<g ref="char:punc">▪</g>
+               </l>
+               <l>Better ſucceſs. In <hi>Pompeius</hi> appear'd</l>
+               <l>Ev'n then in all Philoſophers, but heard</l>
+               <l>Renowned <hi>ROBERTS,</hi> he diſpoſed ſo</l>
+               <l>Things in ſuch ſort, <hi>Pompeius Magnus,</hi> no,</l>
+               <l>So flouriſhed in <hi>Africk</hi> for his fame,</l>
+               <l>For all that they ſo <hi>Pompeius</hi> proclaim,</l>
+               <l>As doth your Noble Excellence, but now</l>
+               <l>I'm ty'd to Letters, knows not what to do<g ref="char:punc">▪</g>
+               </l>
+            </lg>
+            <closer>
+               <signed>R. W.</signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:40729:7"/>
+            <head>To the Curious READER.</head>
+            <head>A Caveat.</head>
+            <l>REader, remember what you have to do,</l>
+            <l>And in whoſe preſence you are preſſing to,</l>
+            <l>To whom you talk, nor do not you preſume</l>
+            <l>With hands prophane, theſe ſayings to aſſume,</l>
+            <l>Dare not to take this Noble Name in vain,</l>
+            <l>Nor do this welcome wilfully diſdain.</l>
+            <l>Although my weak invention, and my phraſe</l>
+            <l>Fall ſhort by thouſands to impart his praiſe,</l>
+            <l>Yet blame me not<g ref="char:punc">▪</g> bewitched with this day,</l>
+            <l>To write his Welcome as well as I may.</l>
+            <l>For write who will, and write till they have won it.</l>
+            <l>Yet I muſt ſpend my ſpark of fire upon it<g ref="char:punc">▪</g>
+            </l>
+            <l>What pen ſo proper punctually to pen</l>
+            <l>The virtues of the worthieſt of men,</l>
+            <l>Whoſe word ſo well may be believ'd to be,</l>
+            <l>Witneſs as one who with his eyes did ſee</l>
+            <l>His Excellence ſo many moneths and years,</l>
+            <l>To prove moſt prudent among <hi>Englands</hi> Peers,</l>
+            <l>His proof hath power his praiſes to proclaim,</l>
+            <l>That view'd his worth, and well diſcern'd the ſame<g ref="char:punc">▪</g>
+            </l>
+            <l>Let me then labour, though my lines are lame,</l>
+            <l>The praiſe of our <hi>Pompeius</hi> to proclaim.</l>
+            <l>Next bout ſhall be a bout, a Twelve moneths time</l>
+            <l>To tell three Nations <hi>Nequams</hi> in a rime.</l>
+            <l>Till then I ſay, take timely notice now,</l>
+            <l>Cenſure me ſlowly. Reader, that's for you.</l>
+         </div>
+         <div type="poem">
+            <pb facs="tcp:40729:7"/>
+            <head>My meaning to Momus.</head>
+            <l>THe dulleſt drone, whoſe wit will hardly weig<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+            </l>
+            <l>Adram of duſt, which on the balance lye,</l>
+            <l>That fool I ſay, before he fully looks,</l>
+            <l>Can tell the Ploughman that the furrow crooks.</l>
+            <l>But I could wiſh your wits to work were driven,</l>
+            <l>To hold the plough, and place the furrow even.</l>
+            <l>For you that read behind my back, muſt be</l>
+            <l>Buſie abuſing both my Book and me.</l>
+            <l>But I ſhall ſay, as did <hi>Diogenes</hi> do,</l>
+            <l>Behind my back (be doing) beat me too.</l>
+            <l>But better ſpare me (though you do reject</l>
+            <l>My rithmes) and praiſe me for my Lords reſpect.</l>
+            <l>If I want wit, yet Criticks muſt confeſs</l>
+            <l>Beauty's Idea needs no new-fangled dreſs.</l>
+            <l>Learning I lack, and I left all my skill</l>
+            <l>With <hi>Mars</hi> half-murther'd one day on a hill.</l>
+            <l>Wherefore (as Coyduck) I would draw you in</l>
+            <l>With your more lofty <hi>Elogium</hi> to begin,</l>
+            <l>Becauſe a quill ſn<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pt from ſome Fagles wing,</l>
+            <l>Sho<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> pen his praiſe approv'd ſo by a King.</l>
+            <l>Yet knows my Lord, allows no ſigns of ſhow,</l>
+            <l>Where ſuch great value it within, O! no,</l>
+            <l>Whence, ſin<gap reason="illegible" resp="#OXF" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> worth down-weigs what I can do,</l>
+            <l>(If I had <hi>Homer</hi> 
+               <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to help me too)</l>
+            <l>I muſt leave off, my Lord allows me not</l>
+            <l>To put a pla<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> where there is no ſpot.</l>
+         </div>
+         <div type="prologue">
+            <pb facs="tcp:40729:8"/>
+            <head>The Prologue.</head>
+            <lg>
+               <l>LEt paſſengers (for all their ſpeed) eſpy</l>
+               <l>Vpon this page, <hi>Summa<g ref="char:punc">▪</g> Negotii.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>HEre is a perillous preſent offerd up,</l>
+               <l>A pill of poiſon in a precious cup,</l>
+               <l>Many fair phraſes, fair pretences too,</l>
+               <l>And ſuch things done, as all do overdo</l>
+               <l>Thouſands (in ſubſtance) brave embracements bring,</l>
+               <l>But oh! the ſhadow far exceeds the thing,</l>
+               <l>Firſt writes a Welcome, <hi>Nemine contradicente,</hi>
+               </l>
+               <l>Then caſts a caveat, <hi>Verbum ſapienti,</hi>
+               </l>
+               <l>Where (in the firſt place) plainly you have here</l>
+               <l>The pleaſure, then the poiſon doth appear.</l>
+               <l>Two things indeed, which though I draw them dark,</l>
+               <l>A blind mans bolt can ſcarcely miſs the mark:</l>
+               <l>Secrets ſet open, <hi>AEdipus</hi> nor other</l>
+               <l>Are uſeful here, one ridle reads another<g ref="char:punc">▪</g>
+               </l>
+               <l>It is the ſame, or as much as to ſay,</l>
+               <l>A ſnare may ſnap the <hi>Phoenix</hi> for a prey.</l>
+            </lg>
+         </div>
+      </front>
+      <body>
+         <div type="part">
+            <pb facs="tcp:40729:8"/>
+            <head>The WAY to the WELCOME.</head>
+            <lg>
+               <l>VVHen we were croſt, then fry'd away our fat,</l>
+               <l>Now we are bleſt, what will become of that?</l>
+               <l>No Aedipus ſhall need to anſwer either.</l>
+               <l>My Muſe alone reſolves the ridle rather.</l>
+               <l>We were confounded formerly with cares,</l>
+               <l>Now enters one can cure our fatal fears,</l>
+               <l>For <hi>Pompeius Magnus</hi> prov'd not ſo victorious,</l>
+               <l>Or great at <hi>Rome,</hi> as ROBERTS now is glorious,</l>
+               <l>Whence you our comfort eaſily may ſcan,</l>
+               <l>Comes from enjoying of ſo juſt a man,</l>
+               <l>Then (overcharg'd by chance) how can I chuſe,</l>
+               <l>But ask aſſiſtance for my murther'd Muſe?</l>
+               <l>To write a Welcome for a man ſo rare,</l>
+               <l>Who, fitly, with <hi>Pompeius</hi> I compare.</l>
+               <l>I muſt invoke the ſacred Nine, but may</l>
+               <l>Fall ſhort by far, of what I think to ſay,</l>
+               <l>Yet ſhall unto our <hi>Caeſar</hi> ſeal my thought,</l>
+               <l>Write down his welcom, ſo my work is wrought.</l>
+               <l>Then let the Nymphs, and all the Nine too, meet,</l>
+               <l>And ſpend their ſpirits on this paper ſheet.</l>
+               <l>
+                  <pb facs="tcp:40729:9"/>Let <hi>Helicon</hi> convey vvithin my Quill</l>
+               <l>Celeſtial drops dovvn from <hi>Parnaſsus</hi> Hill,</l>
+               <l>That (ſacred Povver inſpiring of my Pen)</l>
+               <l>I may vvrite vvelcome to the beſt of men.</l>
+               <l>Theſe then ſurrounding (circle-like) the centre</l>
+               <l>Of my vveak ſence, I am reſolv'd to venter</l>
+               <l>VVith ſuch aſſiſtance, ſo that novv you ſhall</l>
+               <l>See trembling hands take ſtrength, and to it fall.</l>
+               <l>I read of ſome, that vvent by vvater round</l>
+               <l>The vvorld, and I ſail'd far beſouth the ſound</l>
+               <l>My ſelf, but ſavv not ſuch brave things; I ſay,</l>
+               <l>As <hi>Dublin</hi> is demonſtrating to day,</l>
+               <l>VVhoſe ſplendent pomp, ſince none can faſhion fit</l>
+               <l>Let me pen an Epitome of it,</l>
+               <l>And ſince not ſaid ſo vvell as it ſhould be,</l>
+               <l>Amend it then, mean time attend to me.</l>
+               <l>Behold yet <hi>Phebus</hi> reacheth out his raies,</l>
+               <l>Affording time for ſuch triumphs as theſe,</l>
+               <l>Heav'n alſo ſmiles, the Elements, and air,</l>
+               <l>All creatures do contentedneſs declare.</l>
+               <l>Pray'rs bring advantage vvhen the pray'rs appear</l>
+               <l>To have had audience in th' Almighties ear.</l>
+               <l>VVhen fame took vvings, and firſt vvith force the fly</l>
+               <l>Throughout this Nation, none vvill novv deny</l>
+               <l>VVith vvhat affections moſt men vvere inflam'd</l>
+               <l>Hearing't affirm'd, your Excellence once aim'd</l>
+               <l>
+                  <pb facs="tcp:40729:9"/>Your Monarchs onely, and immediate aid</l>
+               <l>In <hi>Ireland,</hi> and ſee Banners once diſplaid</l>
+               <l>By your appointment, to promote the peace</l>
+               <l>VVith piety, in this diſtracted place,</l>
+               <l>In hope vvhereof all elevated are,</l>
+               <l>Both hearts and hands convening from aſar</l>
+               <l>To bid you vvelcome, and vvill venter too</l>
+               <l>Their treaſures, though they ſhould themſelves un<g ref="char:EOLhyphen"/>do,</l>
+               <l>To do their duty; nor dare I refuſe</l>
+               <l>To play my part in manner as my Muſe</l>
+               <l>Can compaſs things, contentment cannot come</l>
+               <l>From my vveak pen, yet I vvill point at ſome</l>
+               <l>VVho novv are met, ſincerely in the ſence</l>
+               <l>Of joy, enjoying of your Excellence.</l>
+               <l>I muſt be active for to ſet things forth,</l>
+               <l>So long a witneſs of your Lordſhips worth,</l>
+               <l>Onely my Feather from an Eagles fan</l>
+               <l>Should be pluckt out to write of ſuch a man.</l>
+               <l>But O! I'm hurried, heaps are on my hand,</l>
+               <l>So many thouſands both by ſea and land</l>
+               <l>Are looking on, and ſcarcely will allow it,</l>
+               <l>Or let me write, and yet they put me to it.</l>
+               <l>Great Sir, then ſee, for you can hardly hear</l>
+               <l>(The ſight goes farther than the ſenſe of ear)</l>
+               <l>But firſt perceive the ſeaſon of the year,</l>
+               <l>Smiling to ſhew how welcome you are here,</l>
+               <l>
+                  <pb facs="tcp:40729:10"/>And you may ſee, Sir, conduits, on that ſcore,</l>
+               <l>Waſting the wine, where water went before,</l>
+               <l>And all that are fill pitchers too, with plenty,</l>
+               <l>The Spaniſh grape gets not the name of dainty,</l>
+               <l>They drink and dance, delighting ſo that they</l>
+               <l>Think it no ſin to celebrate the day,</l>
+               <l>To welcome you, and were this day a year,</l>
+               <l>They would not tire in tipling too, I fear.</l>
+               <l>But they muſt act the Act they are to do,</l>
+               <l>Before they be intoxicated too,</l>
+               <l>For empty veſſels make the ſhrilleſt ſound,</l>
+               <l>They're full, but of affections moſt profound.</l>
+               <l>Wherefore they would, and will now as they may,</l>
+               <l>Sing welcome, that's the work, Sir, of the day<g ref="char:punc">▪</g>
+               </l>
+               <l>VVhence you ſhall ſee, all Nations now appear,</l>
+               <l>VVith twenty tongues, to entertain you here:</l>
+               <l>Firſt, then, the Engliſh, have their force ſet ſorth</l>
+               <l>By furious lions, to defend your worth,</l>
+               <l>This they vvould do, ſhould you not buy it dear,</l>
+               <l>Leave half at home, the other half have here.</l>
+               <l>The Natives are by Nature ſo much mov'd,</l>
+               <l>They think you never can be enough belov'd.</l>
+               <l>The <hi>Caledonians</hi> dote on you, and they</l>
+               <l>An ancient Emblem of their povver diſplay,</l>
+               <l>A Thiſtle, ſuch as (if in pride men preſs it?)</l>
+               <l>Saith, ſerving you, <hi>Nemo nos impune laceſsit;</hi>
+               </l>
+               <l>
+                  <pb facs="tcp:40729:10"/>Proclaims by caſting Blue-caps up and down,</l>
+               <l>Lord <hi>Roberts,</hi> our Lord Lieutenant's in the Town.</l>
+               <l>Likewiſe the <hi>French</hi> affirm with <hi>par ma foy,</hi>
+               </l>
+               <l>Monſieur we muſt make merry now for joy,</l>
+               <l>Officiouſly, not falſify our fence,</l>
+               <l>But fight moſt ſtoutly for his Excellence.</l>
+               <l>The <hi>Iriſh</hi> alſo tune their harps anew,</l>
+               <l>And tyre the ſtrings with welcoming of you,</l>
+               <l>And vvith the reſt reſolves to ſee the day,</l>
+               <l>VVhen they ſhall dance, vvhoever pleaſe to play.</l>
+               <l>The <hi>Dutch</hi> men drink a health to every one,</l>
+               <l>Your vvelcome vovvs invite you to come on.</l>
+               <l>VVill vvave advantage, and a voyage vvill make,</l>
+               <l>And fraught a ſhip vvith vvelcomes for your ſake.</l>
+               <l>The <hi>Danes</hi> drink alſo deep as they can do,</l>
+               <l>And kindly cries, you're vvelcome to them too.</l>
+               <l>So many vvelcomes from ſuch ſeveral lands,</l>
+               <l>And all their Patrons come to kiſs your hands,</l>
+               <l>St. <hi>George,</hi> St. <hi>Andrew</hi> and St. <hi>David</hi> do</l>
+               <l>Dance with St. <hi>Dennis,</hi> and St. <hi>Patrick</hi> too.</l>
+               <l>Tvvo Nations more, the <hi>Dutcheſs</hi> and the <hi>Duke</hi>
+               </l>
+               <l>So fain vvould foot it, they cannot refrain,</l>
+               <l>And all for nothing, kindly, but to call,</l>
+               <l>(Bovving their knees) you're vvelcome unto all,</l>
+               <l>So that I think lay <hi>Ceſar</hi> in the ſcale,</l>
+               <l>VVith you, his vvelcoms vvouldnot countervail;</l>
+               <l>
+                  <pb facs="tcp:40729:11"/>He conquer'd all by force where he did go,</l>
+               <l>Men yield to you<g ref="char:punc">▪</g> Sir, whether you will or no;</l>
+               <l>
+                  <hi>Engliſh, Scotch, French, VVelch, Dutch, Danes, Iriſh,</hi> all,</l>
+               <l>To crown your welcome, come on knees, and fall</l>
+               <l>Before your Honour, entring on the Throne,</l>
+               <l>With acclamations; heark how they go on<g ref="char:punc">▪</g>
+               </l>
+               <l>In <hi>VVales,</hi> St. <hi>David,</hi> to his Harp, indeed,</l>
+               <l>Dances, twice ſixty Soveraigns to ſucceed.</l>
+               <l>
+                  <hi>Brutus</hi> the firſt, <hi>Corineus</hi> who renown'd,</l>
+               <l>Whence, now, the name of <hi>Cornwall</hi> doth redound.</l>
+               <l>
+                  <hi>Brutus</hi> I ſay, from whoſe brave enterpriſes,</l>
+               <l>
+                  <hi>Cadwallader, Corineus, Roberts,</hi> now ariſes;</l>
+               <l>Three, ſo ſucceeding <hi>Brutus</hi> at his beſt,</l>
+               <l>As doth the <hi>Phenix</hi> from the <hi>Phenix</hi> neſt,</l>
+               <l>
+                  <hi>Brutus</hi> is that Arabian bird, from whence</l>
+               <l>
+                  <hi>Roberts</hi> ariſeth, but in Excellence,</l>
+               <l>The name unites too, <hi>England, Scotland, Wales,</hi>
+               </l>
+               <l>
+                  <hi>Britain</hi> from <hi>Brutus,</hi> elſe the Fable fails,</l>
+            </lg>
+         </div>
+         <div type="part">
+            <pb facs="tcp:40729:11"/>
+            <head>THE WELCOME.</head>
+            <lg>
+               <l>ANd are ye come King <hi>Charles</hi> his Champion,</l>
+               <l>To ſway the Scepter on your Soverains throne?</l>
+               <l>God give you joy, but ſee, Sir, to and fro,</l>
+               <l>With what great glory they receive you ſo,</l>
+               <l>A<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l are rejoyeing, and triumph in ſtate,</l>
+               <l>Vnanimous, no murmure nor debate,</l>
+               <l>Both far and near, all are conven'd to call,</l>
+               <l>And clap their hands, concurring one and all.</l>
+               <l>Not onely Subjects, but each living thing,</l>
+               <l>This day adore the image of their King</l>
+               <l>In doing homage, heaven and earth concur,</l>
+               <l>All things in ſuch extremity do ſtir</l>
+               <l>In ſtately manner, as much as they may,</l>
+               <l>Or mortals can, and this is that they ſay,</l>
+               <l>Welcome Great <hi>Héros, Ceſar</hi> ſeldom ſaw</l>
+               <l>Such troops of Captives, conquer'd with his awe,</l>
+               <l>As are to day, on tops of mountains met,</l>
+               <l>Building of bon fires, thouſands now are ſet</l>
+               <l>
+                  <pb facs="tcp:40729:12"/>With free conſent, ſee how the flags do fly,</l>
+               <l>Exceeding <hi>Ceſars</hi> ſigns of victory.</l>
+               <l>
+                  <hi>Mars</hi> now runs mad, makes men march out in milions,</l>
+               <l>Tranſporting tents, and they prepare pavilions,</l>
+               <l>Wherein they may make merry and carouſe,</l>
+               <l>And pay unto your Excellence their vows.</l>
+               <l>Mark our commanders how they come in cluſters</l>
+               <l>The Pikes and Muskets meet at general Muſters,</l>
+               <l>Ships hoiſe up fail, and thorow ſweeps the Main,</l>
+               <l>Swims to and fro, fly out and in again.</l>
+               <l>The very fiſhes float above, and bite</l>
+               <l>At every thing they ſee ſo much delight,</l>
+               <l>But <hi>Neptune</hi> roars in madneſs out of meaſure,</l>
+               <l>To part with ſuch a precious piece of treaſure<g ref="char:punc">▪</g>
+               </l>
+               <l>O! but behold, See thouſands on the ſhore,</l>
+               <l>Throwing away their treaſures and their ſtore,</l>
+               <l>That all thoſe things exceed the joys by water,</l>
+               <l>So much that men admire to ſee the matter.</l>
+               <l>Buildings are empty, ſtreets are ſtanding bare,</l>
+               <l>Windows are open, with the Cages there</l>
+               <l>Where Parrots prattle, and keep ſuch a ſpruttle,</l>
+               <l>The pretty ſparrows tattle too and truttle.</l>
+               <l>The ſhops are ſlighted, much now in a maze,</l>
+               <l>All men admiring what is meant by theſe,</l>
+               <l>And which is more, the Maſters make it play,</l>
+               <l>The boys give bleſſings to this holy-day.</l>
+               <l>
+                  <pb facs="tcp:40729:12"/>But I have done with things concern the City</l>
+               <l>Shall tell you ſtories twenty times more pretty,</l>
+               <l>And all for nothing, but to let you know</l>
+               <l>That all ſing welcome to my Lord; for lo</l>
+               <l>The towring hills on tiptoes ſtand, and ſtare</l>
+               <l>To ſee above us what brave things are there<g ref="char:punc">▪</g>
+               </l>
+               <l>The ſtony rocks ſtand as they could not ſtir,</l>
+               <l>The herds and flocks too murmure, and demur,</l>
+               <l>The very Bees about the holes are humming,</l>
+               <l>All things rejoyce your Excellence is coming.</l>
+               <l>Nor do they care who buyes the bargain deareſt,</l>
+               <l>But ſtiives and ſtruggles who may-now be neareſt</l>
+               <l>Will you reſolve through <hi>Ireland</hi> for to ride,</l>
+               <l>Your Excellence is ſure to ſee a guide.</l>
+               <l>The country Clowns to welcome you will venter</l>
+               <l>With Docha Dorros, where you cannot enter<g ref="char:punc">▪</g>
+               </l>
+               <l>The wildeſt ſtags ſtand inſtantly intic'd,</l>
+               <l>And for your ſake they will be ſacrific'd.</l>
+               <l>The feather'd fowls fall down and do not fly,</l>
+               <l>But for to feaſt you, are content to die.</l>
+               <l>Fairies in flocks, upon the ſpangled hills,</l>
+               <l>Hearing your welcome, dance and feaſt their fills.</l>
+               <l>Yet not content with all I here have told,</l>
+               <l>You ſhall ſee more, Sir, by a thouſand fold.</l>
+               <l>But that the atoms are ſo in the air,</l>
+               <l>The day draws dark you cannot ſee things there.</l>
+               <l>
+                  <pb facs="tcp:40729:13"/>The pride of prancing horſes with their heels,</l>
+               <l>Raiſe ſuch a duſt, that all the riders reels.</l>
+               <l>The ratling of the Coaches keep a noiſe,</l>
+               <l>The laquies laughing, and the little boys</l>
+               <l>About the Hackneys, they keep ſuch a crying,</l>
+               <l>The haughty horſes naturally are neighing</l>
+               <l>For joy, that juſt unleſs you are ſo near,</l>
+               <l>You ſhall not ſee, though doubtleſs you may</l>
+               <l>The trumpets ſound, the echoes anſwer them</l>
+               <l>The bells ring out; ſo do the drums proclaim</l>
+               <l>Their pleaſures, and the <hi>Caſtle</hi> Cannons roar,</l>
+               <l>The City ſhakes, as dancing doth a dore</l>
+               <l>This day<g ref="char:punc">▪</g> ev'n ſo the Enſigns fan and fly,</l>
+               <l>As flouriſhing before a Deity.</l>
+               <l>I know not how to compaſs nor contract</l>
+               <l>So many welcoms, ſuch a ſt<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r they make,</l>
+               <l>They come not on in order, but they run</l>
+               <l>To weave the web, before the weft be ſpun.</l>
+               <l>The men go mad, as vaniſht from their wit</l>
+               <l>With overjoy, and juſt now in the fit</l>
+               <l>All things rejoyce, and joyfully proclaim</l>
+               <l>Your welcome, but believe not half of them.</l>
+               <l>The women alſo, willingly convene</l>
+               <l>To welcome you, ſuch things are ſeldom ſeen.</l>
+               <l>Lo, how the Ladies in a train attend,</l>
+               <l>Scattering the confects round about <hi>Ringſend,</hi>
+               </l>
+               <l>
+                  <pb facs="tcp:40729:13"/>Whence, where the floods before<g ref="char:punc">▪</g> did overflow,</l>
+               <l>Now over man led, all with green doth grow,</l>
+               <l>Where men may walk from bank to bank, ev'n both</l>
+               <l>From <hi>Bullock</hi> bravely to the Hill of <hi>Hoth,</hi>
+               </l>
+               <l>About which mountain <hi>Neptune</hi> now's a ſence,</l>
+               <l>And flows for favour of your Excellence,</l>
+               <l>And with his proud approaches doth proclaim</l>
+               <l>The ancient cuſtom of the Diadem.</l>
+               <l>This day is done, our duties we declare,</l>
+               <l>The Lords and Ladies loyally repair,</l>
+               <l>Where famous feaſtings furniſhed are found,</l>
+               <l>
+                  <hi>Ceres</hi> and <hi>Bacchus,</hi> both of them abound<g ref="char:punc">▪</g>
+               </l>
+               <l>Applauded pleaſures, nor did Paradiſe</l>
+               <l>Afford ſuch fruits of plenty, or of price,</l>
+               <l>As <hi>Hoth</hi> in heaps, canſt caſt upon the Hills,</l>
+               <l>Till ſhips were fraughted, when we fed our fills,</l>
+               <l>And after all Solemnities were there,</l>
+               <l>And many thouſands ſatiate with a ſhare.</l>
+               <l>Lo then from thence unto the <hi>Caſtle-gate,</hi>
+               </l>
+               <l>Ladies lay lillies, my Lord may ſtep in ſtate,</l>
+               <l>Likewiſe the <hi>Leefy</hi> look't as it were pav'd</l>
+               <l>VVith precious pearles as the waters wav'd.</l>
+               <l>But then, behold, about the heaps and hills</l>
+               <l>The ſea flow'd farther then we ſee it fills;</l>
+               <l>For as my Lord doth peace and peace appear</l>
+               <l>It drowns the duſt to make the paſſage clear.</l>
+               <l>
+                  <pb facs="tcp:40729:14"/>Then do the Callaughs make the Pipers play,</l>
+               <l>And dance in dozens to delight the day.</l>
+               <l>The countrey children meet in millions too,</l>
+               <l>And at your welcome make as much ado,</l>
+               <l>And tatling, tells, when they to knowledge come</l>
+               <l>They will be witneſs of this welcome home.</l>
+               <l>Ev'n ſo the Shepherds now forſake the ſheep,</l>
+               <l>With oaten Piffers plays them all aſleep.</l>
+               <l>The ſilly lambs lie ſacrificed too,</l>
+               <l>To make you welcome, ſo you ſee they do.</l>
+               <l>And if in <hi>Ireland</hi> were there ſuch things here</l>
+               <l>Inſpir'd with poiſon, ſhould there ſuch appear,</l>
+               <l>(But that St. <hi>Patrick</hi> put them all away)</l>
+               <l>To bid you welcome, they would dance to day.</l>
+               <l>But then of all theſe divers kinds of calls,</l>
+               <l>I moſt admire the meaneſt animals</l>
+               <l>That make a noiſe to welcome you, and lo,</l>
+               <l>Your Lordſhips coming cauſe the cripples go.</l>
+               <l>The ſick and lame have left the Hoſpitalls,</l>
+               <l>Beggers and Cripples play buſie with the balls.</l>
+               <l>
+                  <hi>Hippocrates,</hi> and <hi>Paracelſus</hi> ſure,</l>
+               <l>Nor <hi>Galen</hi> neither gave ſo great a cure,</l>
+               <l>As all of theſe by getting you, do grant</l>
+               <l>They get, and think, hence, they ſhall hardly want.</l>
+               <l>Thus men and women, beaſts, birds, all are bent,</l>
+               <l>Your Excellence convene a Parliament,</l>
+               <l>
+                  <pb facs="tcp:40729:14"/>And ſo proclaim by carrying a Crown,</l>
+               <l>This Days triumph with Trophies of renown,</l>
+               <l>To eternize to after times, the ſtory</l>
+               <l>Of ſuch a welcome, and illuſtrious glory.</l>
+               <l>But beſt of all, our Paſtors preach and pray</l>
+               <l>Mornings and Ev'nings, almoſt all the day,</l>
+               <l>And all the people nigh to the Pulpit preſs,</l>
+               <l>Where with their pray'rs divinely they addreſs</l>
+               <l>Themſelves with thanks, and that is ſure the beſt</l>
+               <l>Beſeeming welcome, ev'n of all the reſt.</l>
+               <l>The Organs alſo make a ſacred ſound,</l>
+               <l>Ev'n ſo the Anthems ſolemnly redound</l>
+               <l>Devoutly too, ſo that I think I ſee</l>
+               <l>And hear the Saints aſſiſt our melodie.</l>
+               <l>Thus all are willing with a fair pretence,</l>
+               <l>To bow before your Honours Excellence,</l>
+               <l>And bid you welcome, you, whoſe virtues won</l>
+               <l>
+                  <hi>Englands</hi> Great Monarch mounted on the throne,</l>
+               <l>There, to aſſign the ordering of all</l>
+               <l>This Iſlads glorious Grandieur, great and ſmall,</l>
+               <l>You, whoſe great wit could weigh the ſcale, &amp; caſt</l>
+               <l>A loyal Lot, now thirty ſeaſon paſt.</l>
+               <l>And now your native Nation no more mov'd</l>
+               <l>With barbarous broils, behold how it behov'd</l>
+               <l>To condeſcend, and ſee you ſent away</l>
+               <l>The Sovereign ſword in <hi>Ireland</hi> for to ſway.</l>
+               <l>
+                  <pb facs="tcp:40729:15"/>Tranſporting whom, may I not truly tell,</l>
+               <l>How <hi>Neptunes</hi> pride by piece and piece did ſwell,</l>
+               <l>To ſee himſelf ſo truſted, to receive</l>
+               <l>Your Excellence upon his watry wave,</l>
+               <l>Loth to deliver ſuch a Loyal Lord</l>
+               <l>To <hi>Irelands</hi> evils being once aboard.</l>
+               <l>Though for its bliſs he was content to bring</l>
+               <l>A Lord Lieutenant to ſo great a King<g ref="char:punc">▪</g>
+               </l>
+               <l>But ſince I ſee the main deſign is but</l>
+               <l>To bid you welcome, therefore I ſhall ſhut</l>
+               <l>My thoughts, ev'n ſo with ſaying welcome too,</l>
+               <l>But would the world ſav welcome, that will do</l>
+               <l>Nothing indeed (in ſubſtance nor in ſence)</l>
+               <l>Worthy to welcome your moſt Excellence.</l>
+               <l>The only welcome therefore I'le allow</l>
+               <l>Is ſpeech in conſtant pray'rs to welcome you.</l>
+               <l>Wherefore I offer ſacrifice of praiſe,</l>
+               <l>My Lord is landed, and ſhall ſhortly raiſe</l>
+               <l>My praiſe unto a Diapaſons pitch,</l>
+               <l>Tickling mens ears, when they the ſtringe ſhall twitch,</l>
+               <l>The ſound whereof ſure ſhall aſcend on high,</l>
+               <l>In thankful pray'rs for your Excellency.</l>
+               <l>But to break off, here muſt my Muſe remain,</l>
+               <l>Illuſtrious <hi>Heros,</hi> welcome once again,</l>
+               <l>Millions of mortals ſinging Sonets, ſay</l>
+               <l>
+                  <hi>Ceſar</hi> triumphs, and we have woon they day.</l>
+            </lg>
+         </div>
+         <div type="part">
+            <pb facs="tcp:40729:15"/>
+            <head>Verbum Sapienti.</head>
+            <lg>
+               <l>THis welcome, ſure, of ſweet things is made up,</l>
+               <l>But yet ſome knavery may be in the cup<g ref="char:punc">▪</g>
+               </l>
+               <l>And though with theſe I make ſo much ado,</l>
+               <l>Pills gilded may be packt with poyſon too.</l>
+               <l>Fiſh had far better be without that bait,</l>
+               <l>A golden hook may choak them with a cheat.</l>
+               <l>My meaning is, when friendſhip was profeſt,</l>
+               <l>A jugling <hi>Iudas</hi> did betray the beſt.</l>
+            </lg>
+            <lg>
+               <l>NOw ſeven Epiſtles, ſuch as they are, I enter,</l>
+               <l>Wherewith (in weakneſs) wiſe advice I venter.</l>
+               <l>Or are they fables, which fill up the paper?</l>
+               <l>If ſo? the buyer buyes my Book the cheaper,</l>
+               <l>To light his Pipes, hath paper here, in plenty,</l>
+               <l>He ſaves enough by <hi>Verbum ſapienti.</hi>
+               </l>
+               <l>Provided that, as he the pipe purſues,</l>
+               <l>He alſo <hi>Verbum ſapienti</hi> uſe.</l>
+            </lg>
+            <div n="1" type="epistle">
+               <pb facs="tcp:40729:16"/>
+               <head>1. <hi>Epistle.</hi>
+               </head>
+               <lg>
+                  <l>MArk my diſcourſe, but conſtrue right the caſe,</l>
+                  <l>Some Ghoſtly Father flattering in your face</l>
+                  <l>Will, with a kiſs come, ſtriving to deſtroy</l>
+                  <l>Your enterpriſes, if you ſuch imploy?</l>
+                  <l>But you (in prudence) will be pleas'd to ſee</l>
+                  <l>Precepts expreſt from ſuch a tool as me,</l>
+                  <l>Whereby the baſeneſs which be practis'd here,</l>
+                  <l>May partly to your Excellence appear.</l>
+                  <l>Fools may by fortune, let ſuch phraſes fly,</l>
+                  <l>As wiſe men may mark ſomething by the by.</l>
+                  <l>But theſe (diſtracted with diſtreſs) I doe</l>
+                  <l>Humbly here offer to your Lordſhip now.</l>
+                  <l>For if each <hi>Iudas</hi> ſhould enjoy a cord,</l>
+                  <l>In loyalty I love to ſerve my Lord,</l>
+                  <l>And theſe ſend forth before ſome things ſuppreſt</l>
+                  <l>For preſent, I, in time may tell the reſt.</l>
+               </lg>
+            </div>
+            <div n="2" type="epistle">
+               <head>2. <hi>Epistle.</hi>
+               </head>
+               <lg>
+                  <l>THe thing call'd <hi>Verbum ſapienti,</hi> ſleeps,</l>
+                  <l>Within a place that's private, but it peeps,</l>
+                  <l>For to perceive your Excellence apart,</l>
+                  <l>To ſpeak of <hi>Verbum ſapienti</hi> s art,</l>
+                  <l>And in the hour the hurly burly's over,</l>
+                  <l>That you can try converſion, tricks and trover,</l>
+                  <l>I mean not things my ſelf concerning ſo,</l>
+                  <l>But griev'd to ſee ſuch ſubtil gameſters go</l>
+                  <l>With great deſigns; yet were my Lord at leiſure,</l>
+                  <l>Then I ſhall pay the tythe our of my treaſure,</l>
+                  <l>Preſuming too<g ref="char:punc">▪</g> ten thouſand tens to twenty,</l>
+                  <l>My Lord ſaith, Thank you <hi>Verbum ſapienti.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div n="3" type="epistle">
+               <pb facs="tcp:40729:16"/>
+               <head>3. <hi>Epistle.</hi>
+               </head>
+               <lg>
+                  <l>As fiſh at flies, things I on ſudden ſnap,</l>
+                  <l>Nex<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> time my hook may hit &amp; hurt perhap,</l>
+                  <l>My feathers forc'd to ſtrike, as ſteel at flint,</l>
+                  <l>And I am pl<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>as'd to prove a fool in print,</l>
+                  <l>To tell the errors of the time, and try,</l>
+                  <l>Whether the fault lies in a knave, and cry</l>
+                  <l>Whore firſt, and ſo in ſeaſon ſerve my Lord,</l>
+                  <l>(This Earneſt peny ſhall the ſumme affoord)</l>
+                  <l>Though no man writes, but ſome offence may fal</l>
+                  <l>Yet I preſume my fin ſhall ſeem but ſmall,</l>
+                  <l>Vnmasking meerly things that lurk below,</l>
+                  <l>By laying open, that my Lord may know</l>
+                  <l>He hath one here, ſo well doth know the caſe,</l>
+                  <l>That dare diſſect the fore before their face,</l>
+                  <l>And e're the <hi>Leeffy</hi> lies by <hi>Letterkenny,</hi>
+                  </l>
+                  <l>Shall make them ſcratch their crowns, I'le pawns peny,</l>
+                  <l>Or e're <hi>Dundalk</hi> to <hi>Dublin Caſtle</hi> comes,</l>
+                  <l>Shall beat alarum lowder than by drums<g ref="char:punc">▪</g>
+                  </l>
+                  <l>But leſt they think ſuch things ſhall never be,</l>
+                  <l>I ſhall come quickly, take this much of me.</l>
+                  <l>For what are they, think I ſhould ſuch adore?</l>
+                  <l>Or be the ſubject of their ſcorn, Wherefore?</l>
+                  <l>Becauſe misfortunes have laid me below,</l>
+                  <l>And they have got what I had long ago,</l>
+                  <l>No, they ſhall ſee I ſomething have in ſtore,</l>
+                  <l>And to their much, it may be give them more.</l>
+               </lg>
+               <q>Qua mihi prestiferis memini, ſemperque ten <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>.</q>
+            </div>
+            <div n="4" type="epistle">
+               <pb facs="tcp:40729:17"/>
+               <head>4. <hi>Epistle.</hi>
+               </head>
+               <lg>
+                  <head>A Ridle reſolved.</head>
+                  <l>
+                     <g ref="char:V">Ʋ</g>
+                     <g ref="char:V">Ʋ</g>it and Ingenuity,</l>
+                  <l>Honeſty and Fair dealing,</l>
+                  <l>Money and Merchandiſe.</l>
+               </lg>
+               <p>Theſe three may beg their bread in <hi>Ireland.</hi>
+               </p>
+               <lg n="1">
+                  <head>1.</head>
+                  <l>VVEre <hi>Cato, Plato,</hi> or <hi>Pythagoras,</hi>
+                  </l>
+                  <l>Here with their wits, each one would prove <gap reason="illegible" resp="#OXF" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </l>
+               </lg>
+               <lg n="2">
+                  <head>2.</head>
+                  <l>Were <hi>Iob</hi> here too, with his integrity,</l>
+                  <l>He might go thred bare by his honeſty.</l>
+               </lg>
+               <lg n="3">
+                  <head>3.</head>
+                  <l>Bring alſo <hi>Dives,</hi> which if you could do</l>
+                  <l>Here, they would cheat him for his moneys too<g ref="char:punc">▪</g>
+                  </l>
+                  <l>
+                     <pb facs="tcp:40729:17"/>Whence, ſince all ſuch are made but fools at fairs</l>
+                  <l>Lothen, poor I, muſt proſper by my pray'rs,</l>
+                  <l>Or at the leaſt from <hi>Dublin</hi> muſt depart,</l>
+                  <l>Where almoſt all live by that ugly art, feigned deſert.</l>
+               </lg>
+            </div>
+            <div n="5" type="epistle">
+               <head>5. <hi>Epiſtle.</hi>
+               </head>
+               <lg>
+                  <l>I Doubt not but your Excellence ſhall ſee;</l>
+                  <l>More learned lines, then you receive from me.</l>
+                  <l>And yet I think, few ſuch ſhall come in ſeaſon,</l>
+                  <l>Though better rithm, ſhall not be better reaſon.</l>
+                  <l>When <hi>Ceſar</hi> ſaw a ſouldier do his duty,</l>
+                  <l>He valued not the bigneſs of the booty,</l>
+                  <l>So I preſume your Excellence will never</l>
+                  <l>Deſpiſe a ſouldiers poems; howſoever</l>
+                  <l>Let theſe take place for preſent, I avow,</l>
+                  <l>E're long I ſhall bring better things to you;</l>
+                  <l>I call them better, though they be but bad,</l>
+                  <l>To tell them now, my Lord might think me mad.</l>
+                  <l>My mind is vexed with a world of woes,</l>
+                  <l>Law-ſuits, and things fomented by my foes.</l>
+                  <l>But I preſume your Excellence will be,</l>
+                  <l>Henceforth a gracious ſafeguard unto me,</l>
+                  <l>For in ſuch peril where ſhould I appear?</l>
+                  <l>But to my Patron, being preſent here,</l>
+                  <l>Or ſhall I reſt, as <hi>Horace</hi> with his rithme,</l>
+                  <l>On my <hi>Mecenas?</hi> this diſtracted time.</l>
+                  <l>Yes, Noble Lord, ſo ſhall it then be ſaid,</l>
+                  <l>The Poet for his propheſie is paid.</l>
+               </lg>
+            </div>
+            <div n="6" type="epistle">
+               <pb facs="tcp:40729:18"/>
+               <head>6. <hi>Epiſtle.</hi>
+               </head>
+               <lg>
+                  <l>LIke as a wife Commander ſends a Scont,</l>
+                  <l>In day of danger to diſcloſe a doubt.</l>
+                  <l>Ev'n ſo I ſend this little Book to be</l>
+                  <l>My meſſenger a ſmall thing ſwims the ſea,</l>
+                  <l>And marks the way before the mighty whale,</l>
+                  <l>The greater fiſh find favour from the ſmall;</l>
+                  <l>But if ſo be the ſmaller ſhould be ſlain,</l>
+                  <l>Or ſwallow'd up within the mighty Main</l>
+                  <l>By bigger beaſts<g ref="char:punc">▪</g> Leviath an then lies</l>
+                  <l>Expos'd to peril in the depth, and dies.</l>
+                  <l>But as the mean makes way unto the moſt,</l>
+                  <l>The great takes care leſt that the leſs be loſt<g ref="char:punc">▪</g>
+                  </l>
+                  <l>And ſo I ceaſe with what I ſaid before,</l>
+                  <l>
+                     <hi>Verbum ſapienti,</hi> I ſhall ſay no more.</l>
+               </lg>
+            </div>
+            <div n="7" type="epistle">
+               <head>7. <hi>Epiſtle.</hi>
+               </head>
+               <lg>
+                  <l>Let many more then Momus</l>
+                  <l>Receive this Reck'ning from us, &amp;c.</l>
+               </lg>
+               <lg>
+                  <l>WHen Redbreaſts in your Chamber window chats,</l>
+                  <l>The chirping bird bad news prognoſticates;</l>
+                  <l>Ev'n ſo my Redbreaſt flutters in your floor,</l>
+                  <l>And gives you warning of a winter ſhowre.</l>
+                  <l>This bird too, boaſts, great multitudes of men,</l>
+                  <l>To bring bad tydings about ſixty ten.</l>
+                  <l>Then let my Redbreaſt pick upon your table,</l>
+                  <l>Till that time comes, you find it not a Fable.</l>
+               </lg>
+            </div>
+         </div>
+         <div type="part">
+            <pb facs="tcp:40729:18"/>
+            <head>Twelve Similitudes.</head>
+            <lg>
+               <l>The Conſtitutions in a true Catalogue,</l>
+               <l>Of all, between the Poſtſcript and the Prologue.</l>
+            </lg>
+            <lg n="1">
+               <head>1.</head>
+               <l>Firſt, then, to Court comes early, one by one,</l>
+               <l>As proud as was <hi>Caligula</hi> alone.</l>
+            </lg>
+            <lg n="2">
+               <head>2.</head>
+               <l>Then you ſhall ſee ſome falling at your foot,</l>
+               <l>Drunk as <hi>Tiberius,</hi> they dare daily do't.</l>
+            </lg>
+            <lg n="3">
+               <head>3.</head>
+               <l>
+                  <hi>Nero</hi> could ne're ſuch cruelty contrive,</l>
+               <l>As here do thouſandes, though they therewith thrive,</l>
+            </lg>
+            <lg n="4">
+               <head>4.</head>
+               <l>A vile and vicious <hi>Heliogabalus</hi> here,</l>
+               <l>Shall every hour before your face appear.</l>
+            </lg>
+            <lg n="5">
+               <head>5.</head>
+               <l>Envious men, exceeding <hi>Alexander,</hi>
+               </l>
+               <l>Inenvy, ſure, this can be call'd no ſlander.</l>
+            </lg>
+            <lg n="6">
+               <head>6.</head>
+               <l>Avaricious <hi>Cyrus,</hi> ſlily, Sir, he lies,</l>
+               <l>Catching at Court your profits to ſurprize.</l>
+            </lg>
+            <lg n="7">
+               <head>7.</head>
+               <l>
+                  <hi>
+                     <g ref="char:V">Ʋ</g>lyſses</hi> likewiſe no man muſt deny,</l>
+               <l>Could ever act ſuch plots of policy.</l>
+            </lg>
+            <lg n="8">
+               <pb facs="tcp:40729:19"/>
+               <head>8.</head>
+               <l>
+                  <hi>Midas</hi> men ſay was covetous, but hold,</l>
+               <l>Here thouſands far more covetous of gold.</l>
+            </lg>
+            <lg n="9">
+               <head>9.</head>
+               <l>The craft of crafty <hi>Hanniball</hi> we ſee,</l>
+               <l>But here are koaves far craftier than he.</l>
+            </lg>
+            <lg n="10">
+               <head>10</head>
+               <l>But then of all this is my onely fear,</l>
+               <l>A <hi>Zoperus</hi> diſſembling in your ear.</l>
+            </lg>
+            <lg n="11">
+               <head>11.</head>
+               <l>Adding withall, by joyning ill to ill,</l>
+               <l>
+                  <hi>A</hi> falſe and flatt'ring <hi>Ariſtippus</hi> ſtill.</l>
+            </lg>
+            <lg n="12">
+               <head>12.</head>
+               <l>Now one of theſe ſhall come, and kiſs, and bow,</l>
+               <l>But juſtas <hi>ludas</hi> ſhall betray you too.</l>
+               <l>Thus I have told you, then your ſelf to ſave,</l>
+               <l>From Court exclude them, that is all I crave.</l>
+               <l>But you will ſay, you know them not, what then<g ref="char:punc">▪</g>
+               </l>
+               <l>I know them mingl'd among ten thouſand men.</l>
+               <l>And when I'm urg'd to uſher ou my mind,</l>
+               <l>I think I ſhall leave very few behind.</l>
+            </lg>
+         </div>
+         <div type="part">
+            <pb facs="tcp:40729:19"/>
+            <lg>
+               <l>
+                  <hi>His Excellence, thus welcom'd firſt, as fit,</hi>
+               </l>
+               <l>
+                  <hi>Now, three Eſtates, enſue to ſecond it.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>THe Illuſtrious Glory of three crowns, conſiſt</l>
+               <l>Of three Supreams, and make a Monarch bleſt</l>
+               <l>I may expreſs them (on a fair pretence)</l>
+               <l>As they are Gods, and that is Goſpel-ſenſe.</l>
+               <l>1. A Lord Lieutenant is a Soveraign thing,</l>
+               <l>Set in the Throne of Majeſty, as King.</l>
+               <l>The ſpiritual pow'rs, Peers of divine degree,</l>
+               <l>Infer perfection, that's the Prelacie.</l>
+               <l>2. Pious Lord Primate, full of zealous fire,</l>
+               <l>Learn'd Lord Chancellor may challenge St. <hi>Peters</hi> chair,</l>
+               <l>Lords Temporal too, enlarge this loyal link</l>
+               <l>Of ſtate to ſtrength, theſe are the Three I think.</l>
+               <l>3. Onely I add that Rule among the <hi>Romans,</hi>
+               </l>
+               <l>Things are concluded by conſent of Commons.</l>
+               <l>So numbring no more than <hi>I</hi> now enroll,</l>
+               <l>Theſe Three, I ſay, ſet fully forth the whole.</l>
+               <l>But having thus in general juſtly wrote,</l>
+               <l>Behold what further falls unto their Lot.</l>
+               <l>My Lord Lieutenant long before he came,</l>
+               <l>Anag. <hi>
+                     <g ref="char:V">Ʋ</g>
+                     <g ref="char:V">Ʋ</g>as born t' hon'r,</hi> faith his Anagram.</l>
+               <l>
+                  <pb facs="tcp:40729:20"/>And will you weigh things rightly with the reſt,</l>
+               <l>His Excellence can <hi>Order hon'r</hi> beſt. <hi>Anag.</hi>
+               </l>
+               <l>Anag. <hi>Am Sions Gameſter,</hi> though the game goes od,</l>
+               <l>
+                  <hi>'Gainſt Romes mas,</hi> to play a game for God.</l>
+               <l>And look ye now but meerly on the name,</l>
+               <l>
+                  <hi>Iames Margets<g ref="char:punc">▪</g> ſon,</hi> ſaith certainly the ſame.</l>
+               <l>Anag. <hi>Cholie Lambe I, Holie cymbal,</hi> too.</l>
+               <l>Of <hi>Michael Boyl,</hi> both Anagrams I do.</l>
+               <l>Anag. <hi>With Holie cymbal, David,</hi> (night, and day)</l>
+               <l>That <hi>Holy Lambe</hi> did praiſe the Lord and pray.</l>
+               <l>But if you think theſe Anagrams go high,</l>
+               <l>The names gives out theſe Anagrams, not I.</l>
+               <l>Determine rather Grace, and Nature too,</l>
+               <l>In each of them theſe did divinely do.</l>
+               <l>Such threefold cord ſecures the crown on <hi>ceſar,</hi>
+               </l>
+               <l>What hand can hurt ſuch ſacred things as theſe are?</l>
+               <l>Diſtinct three parties, parted all aſunder,</l>
+               <l>In one they make a Monarch, that's no wonder.</l>
+               <l>Whom God unites, let no man brag to break,</l>
+               <l>King, church, and State, a perfect Monarch make.</l>
+            </lg>
+         </div>
+         <div type="part">
+            <lg>
+               <l>Thus to the purpoſe playing hereupon,</l>
+               <l>Now one wotd more, and ſo I ſhall be gone.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>APelles</hi> paints <hi>Apollo</hi> pretty nigh,</l>
+               <l>But finding it imperfect, put it by<g ref="char:punc">▪</g>
+               </l>
+               <l>
+                  <pb facs="tcp:40729:20"/>Nor ever one the venture yet would run</l>
+               <l>To finiſh what <hi>Apelles</hi> had begun.</l>
+               <l>So I a Welcome write here as I can,</l>
+               <l>Hoping a <hi>Horace,</hi> or more learned man</l>
+               <l>Might mend my work, for write who will<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> he
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </l>
+               <l>My Lord will be <hi>M<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>cenas,</hi> I dare ſay.</l>
+               <l>My Lord's alone, for which my pen repeats,</l>
+               <l>Such Worthies with him, as make three Eſtates,</l>
+               <l>And with this welcome, or hereafter, ſoon,</l>
+               <l>Or long before the Man that's in the Moon</l>
+               <l>Gets twelvefull faces, I ſhall fetch afar,</l>
+               <l>And boldly bring three Nations to the Bar,</l>
+               <l>And there arraign them; but for preſent peace,</l>
+               <l>My Muſe reſolves, with what is ſaid, to ceaſe.</l>
+            </lg>
+            <lg>
+               <l>Let all (but ſuch, as are concerned here)</l>
+               <l>Read with regard, give no offence for fear.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="part">
+            <pb facs="tcp:40729:21"/>
+            <l>
+               <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aith, a thought once paſt by ſpeech</l>
+            <l>
+               <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> mine, but hath outrun my reach.</l>
+            <l>
+               <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, how many mens curſt crime,</l>
+            <l>
+               <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, before a Twelve moneths time.</l>
+            <l>
+               <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> reſolv'd, in telling truth, not tyre,</l>
+            <l>
+               <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> (ſaith the Pſalmiſt) every one's a lyar.</l>
+            <l>Doubtleſs with <hi>Dublin</hi> I have much to do,</l>
+            <l>And muſt ſay much of moſt men therein too.</l>
+            <l>But whether that be good or bad, behold</l>
+            <l>When that time comes, what ſtories I have told,</l>
+            <l>The tythe whereof, I at this inſtant owe,</l>
+            <l>Commending of ſome Clergie-men I know.</l>
+            <l>Our righteous Iudges, I muſt draw their due,</l>
+            <l>My long experience proves it to be true.</l>
+            <l>Both learn'd and loyal. Then the Advocates</l>
+            <l>That plead with prudence, ſome like Parots prates.</l>
+            <l>But this in general, when that day doth dawn,</l>
+            <l>I'le mark them then, not flatter, ly, nor fawn.</l>
+            <l>For here are hundreds, who mens wits bewitch,</l>
+            <l>Intangling Clients by becomingrich.</l>
+            <l>But rich and righteous render that no lye,</l>
+            <l>Then comes the Camel through the needles eye,</l>
+            <l>Yet vvhat I mean, or vvhom my aim is at,</l>
+            <l>Till that time comes, let none prejudicate.</l>
+            <l>Onely to this I am reſolv'd to ſtand,</l>
+            <l>Before this vvitneſs ſet my ſeal and hand.</l>
+            <closer>
+               <signed>Witneſs
+<list>
+                     <item>H. C. </item>
+                     <item>VV. M.</item>
+                  </list>
+               </signed>
+            </closer>
+            <pb facs="tcp:40729:21"/>
+         </div>
+      </body>
+   </text>
+</TEI>
